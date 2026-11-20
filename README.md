@@ -140,7 +140,3 @@ Jika muncul error `Unable to load dynamic library`, lakukan:
 ---
 *Dibuat berdasarkan pengalaman setup environment Laravel & Filament v5 di GitHub Codespaces.*
 ```
-
----
-
-### 
