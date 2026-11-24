@@ -59,6 +59,15 @@ php -m | grep -E "intl|gd|pdo_mysql|zip|bcmath"
 
 ---
 
+### saat ada kesulitan commit pertama 
+```bash
+sudo apt update && sudo apt install git-lfs
+
+git lfs install
+
+git push origin main:main
+```
+
 ## 📦 Instalasi Laravel & Filament v5
 
 Karena folder root sudah berisi `.devcontainer` dan `README.md`, kita akan menginstal Laravel di **sub-folder baru** bernama `app`.
